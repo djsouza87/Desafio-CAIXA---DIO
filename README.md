@@ -1,3 +1,10 @@
+<p align="center">
+<img 
+    src="https://github.com/djsouza87/Desafio-CAIXA---DIO/blob/main/Leonardo_Phoenix_10_Create_a_caricature_of_a_podcaster_showing_0.jpg"
+    width="300"
+/>
+</p>
+
 # Desafio-CAIXA---DIO
 Segundo episódio de podcast criado com IA para fins de estudo em curso da plataforma DIO.
 
